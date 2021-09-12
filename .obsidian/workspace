@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "e2570dd898b9566e",
+    "type": "split",
+    "children": [
+      {
+        "id": "38342baa43cbaaf1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/修改 dishonored 2 游戏金钱.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a5135099bb649a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e4f55460c3dc949",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a94beb2f0ab2bb35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "12dc5ec6cf4a0d00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f0e6abc576acdfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea1eb2a28e749ae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "448387680bea2fa9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/修改 dishonored 2 游戏金钱.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4accbcda4fa1c1c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "38342baa43cbaaf1",
+  "lastOpenFiles": [
+    "notes/未命名.md",
+    "diary/2021-08-18 木曜日.md"
+  ]
+}
