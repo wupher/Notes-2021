@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/修改 dishonored 2 游戏金钱.md",
+            "file": "diary/2021-08-18 木曜日.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/修改 dishonored 2 游戏金钱.md",
+                "file": "diary/2021-08-18 木曜日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,8 @@
   },
   "active": "38342baa43cbaaf1",
   "lastOpenFiles": [
-    "notes/未命名.md",
-    "diary/2021-08-18 木曜日.md"
+    "diary/2021-08-18 木曜日.md",
+    "notes/修改 dishonored 2 游戏金钱.md",
+    "notes/未命名.md"
   ]
 }
